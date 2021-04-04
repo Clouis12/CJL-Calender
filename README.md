@@ -16,5 +16,5 @@ Issues & Explanation:
 
 
 ## Screenshot 
-![image-1](https://github.com/Clouis12/CJL-Calender/blob/main/screenshots/1.png)
-![image-2](https://github.com/Clouis12/CJL-Calender/blob/main/screenshots/2.png)
+![image-1](screenshots/1.png)
+![image-2](screenshots/2.png)
